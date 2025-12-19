@@ -17,3 +17,22 @@ C:\Users\Alihan Dursun\Desktop\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otom
 C:\Users\Alihan Dursun\Desktop\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Resource1.resources
 C:\Users\Alihan Dursun\Desktop\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Form5.resources
 C:\Users\Alihan Dursun\Desktop\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Form9.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\bin\Debug\Otel otomasyon.exe.config
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\bin\Debug\Otel otomasyon.exe
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\bin\Debug\Otel otomasyon.pdb
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel otomasyon.csproj.AssemblyReference.cache
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Form1.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Form2.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Form3.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Form4.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Form5.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Form6.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Form7.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Form8.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Form9.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Properties.Resources.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel_otomasyon.Resource1.resources
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel otomasyon.csproj.GenerateResource.cache
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel otomasyon.exe
+C:\Users\AlihanDursun\Desktop\Yeni klasör\4\Otel_Otomasyon\Otel otomasyon\Otel otomasyon\obj\Debug\Otel otomasyon.pdb
